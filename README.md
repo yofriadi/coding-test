@@ -2,7 +2,10 @@
 
 This is a simple dashboard that displays the current temperature in a city.
 
-Live preview here https://hendrickscorp-app.vercel.app/dashboard/overview
+Live preview here for the app https://hendrickscorp-app.vercel.app/dashboard/overview.
+
+Live link for the api https://straightforward-colleen-myay-2a414f5c.koyeb.app/api/data?city=Jakarta
+please provide city param with value in `Jakarta`, `Singapore` or `Sydney`.
 
 ## Setup
 
