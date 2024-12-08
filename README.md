@@ -1,7 +1,8 @@
 # City Temperature Dashboard
 
 This is a simple dashboard that displays the current temperature in a city.
-Live preview here https://city-temperature-dashboard.vercel.app/dashboard/overview
+
+Live preview here https://hendrickscorp-app.vercel.app/dashboard/overview
 
 ## Setup
 
